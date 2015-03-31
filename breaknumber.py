@@ -4,6 +4,6 @@ import urllib
 import re
 from cookielib import CookieJar
 
-	Now Code is Writing...
+	Now, I'm Writing. Please Wait ;P
 
 print "The Flag is : "+getflag(req)
